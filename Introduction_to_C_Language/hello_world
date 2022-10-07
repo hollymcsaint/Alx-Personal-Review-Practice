@@ -1,0 +1,12 @@
+#include <stdio.h>
+
+/*
+ * main - A function name that is compulsory and print hello world
+ * Return: zero (Success)
+ */
+
+char main ()
+{
+	printf("hello world");
+	return 0;
+}
